@@ -1,9 +1,11 @@
 
 h1{ 
-color: plum;
-font-size: 45px;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
-'Lucida Sans', Arial, sans-serif;
+    color: plum;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 100px;
 }
 
 h2{
@@ -12,5 +14,35 @@ h2{
     font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 
     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.favourites{
+
+    background-color: cadetblue;
+    padding: 80px 20px;
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.why {
+
+color: lightblue;
+font-size: 20px;
+font-weight: 100;
+}
+
+.brain {
+    background-color: lightblue;
+    padding: 80px 20px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.contact {
+
+text-align: center;
+
 
 }
